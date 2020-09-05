@@ -1,0 +1,11 @@
+C:\Users\Gelezyka\source\repos\Countries\Countries\bin\Debug\Countries.exe.config
+C:\Users\Gelezyka\source\repos\Countries\Countries\bin\Debug\Countries.exe
+C:\Users\Gelezyka\source\repos\Countries\Countries\bin\Debug\Countries.pdb
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.csprojAssemblyReference.cache
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.Form1.resources
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.Properties.Resources.resources
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.csproj.GenerateResource.cache
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.csproj.CoreCompileInputs.cache
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.exe
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.pdb
+C:\Users\Gelezyka\source\repos\Countries\Countries\obj\Debug\Countries.Form2.resources
